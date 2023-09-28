@@ -23,9 +23,8 @@
 <h5>제한사항</h5>
 
 <ul>
-<li>1 ≤ <code>str</code>의 길이 ≤ 1,000,000
-    <code>str</code>에는 공백이 없으며, 첫째 줄에 한 줄로만 주어집니다.
-</li>
+<li>1 ≤ <code>str</code>의 길이 ≤ 1,000,000</li>
+<li><code>str</code>에는 공백이 없으며, 첫째 줄에 한 줄로만 주어집니다.</li>
 </ul>
 
 <hr>
