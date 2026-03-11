@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     long long N, M;
     scanf("%lld %lld", &N, &M);
@@ -8,5 +8,4 @@ int main()
         printf("%lld", N - M);
     else
         printf("%lld", M - N);
-    return 0;
 }
